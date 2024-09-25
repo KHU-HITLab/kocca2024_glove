@@ -1,4 +1,4 @@
-# libglove-kocca2024
+# `kocca2024_glove` repository
 resources from implementation of pneumatic glove prototype developed for 2024 KOCCA haptic research project.
 
 Author: Minwoo Lee(minnov13@khu.ac.kr, [HITLab@Kyung Hee University](https://khuhit.netlify.app/))
